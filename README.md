@@ -1,4 +1,4 @@
-### Pizza Sales dashboard in Power BI
+# Pizza Sales dashboard in Power BI
 
 - Data Verification with SSMS: Verified data accuracy and consistency using SQL Server Management Studio (SSMS) to ensure reliable data before visualization in Power BI.
 
