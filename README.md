@@ -11,4 +11,5 @@
 ## Dashboard
 
 
-![Uploading pizzasales.PNG…]()
+![pizzasales](https://github.com/user-attachments/assets/012d262d-b892-4962-9da1-85153484d74b)
+
