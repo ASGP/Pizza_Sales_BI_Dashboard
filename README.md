@@ -11,5 +11,6 @@
 ## Dashboard
 
 
-![pizzasales](https://github.com/user-attachments/assets/012d262d-b892-4962-9da1-85153484d74b)
+[Pizza Sales Dashboard.pdf](https://github.com/user-attachments/files/18248399/Pizza.Sales.Dashboard.pdf)
+
 
